@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
     public void addOnePointB(View v) {           //ADD ONE POINT FOR TEAM B
         scoreTeamB = scoreTeamB + 1;
         displayForTeamB(scoreTeamB);
+        
     }
 
     /**
